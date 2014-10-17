@@ -1,0 +1,20 @@
+{
+    "title": "Pinkcutie",
+    "name": "pinkcutie",
+    "description": "Pinkcutie Theme for JD.",
+    "version": "1.0.0",
+    "author": "JDViz",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "pinkcutie.css",
+        "dark": false
+    }
+}
