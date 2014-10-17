@@ -15,6 +15,6 @@
     },
     "theme": {
         "file": "pinkcutie.css",
-        "dark": false
+        "dark": true
     }
 }
